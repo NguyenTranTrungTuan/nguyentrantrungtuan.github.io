@@ -10,7 +10,7 @@ This project was developed to effectively manage and monitor school buses, enhan
 
 ### 2. Technologies Used
 
-- **Frontend:** NextJS, Leaflet (map), CSS.
+- **Frontend:** Next.js, Leaflet (map), CSS.
 - **Backend:** NestJS.
 - **Database:** MongoDB.
 - **Testing:** Jest, React Testing Library.

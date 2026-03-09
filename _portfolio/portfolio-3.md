@@ -1,6 +1,6 @@
 ---
 title: "ThienTam"
-excerpt: "Pharmacy management application.<br/><img src='/images/bus-project-thumb.png'>"
+excerpt: "Pharmacy Management Application.<br/><img src='/images/bus-project-thumb.png'>"
 collection: portfolio
 ---
 
