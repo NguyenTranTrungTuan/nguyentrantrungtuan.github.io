@@ -4,25 +4,25 @@ excerpt: "Smart Student Pick-up Tracking System.<br/><img src='/images/bus-proje
 collection: portfolio
 ---
 
-### 1. Tổng quan dự án
+### 1. Project Overview
 
-Dự án được xây dựng để quản lý và giám sát xe đưa đón học sinh một cách hiệu quả, giúp nâng cao an toàn và minh bạch thông tin.
+This project was developed to effectively manage and monitor school buses, enhancing safety and information transparency.
 
-### 2. Công nghệ sử dụng
+### 2. Technologies Used
 
-- **Frontend:** NextJS, Leaflet (bản đồ), CSS.
+- **Frontend:** NextJS, Leaflet (map), CSS.
 - **Backend:** NestJS.
 - **Database:** MongoDB.
 - **Testing:** Jest, React Testing Library.
 
-### 3. Các tính năng chính
+### 3. Key Features
 
-- **Theo dõi thời gian thực:** Hiển thị vị trí xe trên bản đồ bằng Leaflet.
-- **Quản lý lộ trình:** Thuật toán tính toán khoảng cách đường đi giữa các trạm.
+- **Real-time Tracking:** Displays bus location on a map using Leaflet.
+- **Route Management:** Algorithm calculates the distance between stations.
 
-### 4. Kết quả đạt được
+### 4. Achieved Results
 
-- Đã hoàn thiện hệ thống API với độ bao phủ test (Test Coverage) trên 80%.
-- Giao diện UI/UX trực quan, mượt mà trên desktop.
+- The API system has been completed with over 80% test coverage.
+- The UI/UX interface is intuitive and smooth on desktop.
 
-[Link GitHub Dự Án](https://github.com/ThanhPham2k5/Software-Engineering)
+[Project GitHub Link](https://github.com/ThanhPham2k5/Software-Engineering)

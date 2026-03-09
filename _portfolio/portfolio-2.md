@@ -4,25 +4,25 @@ excerpt: "Product Management Dashboard.<br/><img src='/images/bus-project-thumb.
 collection: portfolio
 ---
 
-### 1. Tổng quan dự án
+### 1. Project Overview
 
-FloginFE_BE là một ứng dụng web hoàn chỉnh, được xây dựng để cung cấp một Dashboard Quản lý Sản phẩm/Sách. Dự án này phục vụ cho Bài tập lớn môn Kiểm Thử Phần Mềm, tập trung áp dụng triệt để phương pháp Test-Driven Development (TDD) nhằm đảm bảo chất lượng và độ tin cậy của hệ thống.
+FloginFE_BE is a complete web application built to provide a Product/Book Management Dashboard. This project serves as a Software Testing major assignment, focusing on thoroughly applying the Test-Driven Development (TDD) method to ensure the quality and reliability of the system.
 
-### 2. Công nghệ sử dụng
+### 2. Technologies Used
 
 - **Frontend:** React, Axios, CSS3.
 - **Backend:** Spring Boot, Java, Spring Data JPA.
 - **Database:** H2 Database.
 - **Testing:** Vitest, React Testing Library, JUnit 5, Mockito.
 
-### 3. Các tính năng chính
+### 3. Key Features
 
-- **Chức năng Login & Authentication:** Hệ thống đăng nhập an toàn với cơ chế xác thực và validation đầu vào đầy đủ.
-- **Chức năng Product Management (CRUD):** Quản lý toàn diện dữ liệu sản phẩm/sách, hỗ trợ đầy đủ các thao tác Create, Read, Update, Delete.
+- **Login & Authentication Functionality:** A secure login system with full input authentication and validation mechanisms.
+- **Product Management (CRUD) Function:** Comprehensive management of product/book data, fully supporting Create, Read, Update, and Delete operations.
 
-### 4. Kết quả đạt được
+### 4. Achieved Results
 
-- Đã hoàn thiện hệ thống API với độ bao phủ test (Test Coverage) trên 80%.
-- Giao diện UI/UX trực quan, mượt mà trên desktop.
+- The API system has been completed with test coverage exceeding 80%.
+- The UI/UX interface is intuitive and smooth on desktop.
 
-[Link GitHub Dự Án](https://github.com/ThanhPham2k5/Software-Testing)
+[Project GitHub Link](https://github.com/ThanhPham2k5/Software-Testing)
